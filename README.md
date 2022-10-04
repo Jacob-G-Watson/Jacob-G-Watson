@@ -1,7 +1,6 @@
 <h3 align="center">Continously Growing and Expanding my Knowleadge in the World Software</h3>
 <br>
 
-metrics.plugin.isocalendar.svg
 
 <img align="center" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400">
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
