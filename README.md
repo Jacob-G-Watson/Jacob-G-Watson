@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Continously Growing and Expanding my Knowleadge in the World Software</h3>
 
 ![Metrics](/github-metrics.svg)
 
