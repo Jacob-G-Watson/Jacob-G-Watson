@@ -1,6 +1,10 @@
 <h3 align="center">Continously Growing and Expanding my Knowleadge in the World Software</h3>
+<br>
 
-![Metrics](/github-metrics.svg)
+metrics.plugin.isocalendar.svg
+
+<img align="center" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jclass100" alt="jclass100" /></a> </p>
 
