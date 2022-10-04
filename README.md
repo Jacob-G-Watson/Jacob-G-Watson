@@ -3,6 +3,9 @@
 
 <p align="center"><img align="center" src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400"> <img align="center" src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jclass100&" alt="jclass100" /></p>
+
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jclass100" alt="jclass100" /></a> </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -14,8 +17,6 @@
 </p>
 
 <h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/jacobwatson"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jacobwatson" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/jacobwatson"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jacobwatson" /></a></p><br>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jclass100&show_icons=true&locale=en&layout=compact" alt="jclass100" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jclass100&" alt="jclass100" /></p>
